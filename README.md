@@ -1,20 +1,3 @@
 # RAcookbook
 
-The goal of RAcookbook is to ...
-
-## Installation
-
-You can install the released version of RAcookbook from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("RAcookbook")
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-## basic example code
-```
-
+This is a green test light: [![Build status](https://badge.buildkite.com/352e8b15b2e5aeb644fa43740cfebceda8883f0d7c5ff459e7.svg)](https://buildkite.com/sciencespoecon/racookbook)
