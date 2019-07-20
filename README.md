@@ -1,6 +1,6 @@
 # RAcookbook
 
-This is a green test light (?): [![Build status](https://badge.buildkite.com/fc0195e189534ed887c12570b0b65ad0fc6973420624834f38.svg)](https://buildkite.com/sciencespoecon/racookbook2)
+This is a green test light (?): [![Build status](https://badge.buildkite.com/352e8b15b2e5aeb644fa43740cfebceda8883f0d7c5ff459e7.svg)](https://buildkite.com/sciencespoecon/racookbook)
 
 ## motivation for this
 
